@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-labelledby="title desc">
+  <title id="title">BioMem company logo</title>
+  <desc id="desc">The BioMem molecular circuit mark and wordmark in lime and off-white on graphite.</desc>
+  <rect width="400" height="400" fill="#111612"/>
+  <!-- Existing website mark, enlarged without adding detail. -->
+  <g transform="translate(111 68) scale(5.55)" stroke="#c5ed91" stroke-width="1.5" fill="#111612" stroke-linejoin="round">
+    <path d="M7 7h9l9 9-9 9H7V7Zm0 9h18M16 7v18"/>
+    <circle cx="7" cy="7" r="3"/><circle cx="25" cy="16" r="3"/><circle cx="7" cy="25" r="3"/>
+  </g>
+  <text x="200" y="294" text-anchor="middle" fill="#f1f3eb" font-family="Arial, Helvetica, sans-serif" font-size="63" font-weight="600" letter-spacing="-3">BioMem<tspan fill="#c5ed91">.</tspan></text>
+</svg>
